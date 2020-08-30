@@ -12,6 +12,7 @@
 ## :hammer:Technologies And Tools
 ![](https://img.shields.io/badge/C-blue.svg?logo=c)
 ![](https://img.shields.io/badge/C++-blue.svg?logo=c%2B%2B)
+![](https://img.shields.io/badge/C%23-blue.svg?logo=c-sharp)
 ![](https://img.shields.io/badge/Java-blue.svg?logo=java)
 ![](https://img.shields.io/badge/Javascript-black.svg?logo=javascript)
 
