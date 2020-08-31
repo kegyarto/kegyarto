@@ -11,6 +11,8 @@
  ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
 -->
 
+<img alt="Night Coding" src="https://github.com/kegyarto/kegyarto/blob/master/images/gitCodePic.jpg" align="right" style="width:5px;height:6px;">
+
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:hammer:Technologies And Tools:hammer:
 
 ### :large_blue_diamond:Programming And Scripting languages
