@@ -6,8 +6,8 @@
 
 <h2 align = "center"> :star:About Me:star:</h2>
 
-<p align="center">Hello world</p>
-
+<p align="center">I currently graduated with a bachelors degree in Computer Science at University of Illinois at Chicago. As I am focus on giving quality work by asking good questions because I care about it being done the best it can be. Also, I'm passionate about making programs that can help change people's lives. Some of the classes I took  that change people's lives are, Human Augmentics, Artificial Intelligence and Video Game Design with Unity. </p>
+ 
 <h2 align = "center">:hammer:Technologies And Tools:hammer:</h2>
 
 ### :large_blue_diamond:Programming And Scripting languages
