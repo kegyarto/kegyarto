@@ -11,7 +11,8 @@
  ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
 -->
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:hammer:Technologies And Tools
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:hammer:Technologies And Tools:hammer:
+<img alt="Coding Picture" src="" align="right"/>
 ### :large_blue_diamond:Programming And Scripting languages
 ![](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=blue)
 ![](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=blue)
