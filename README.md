@@ -2,7 +2,7 @@
 ![alt text](https://github.com/kegyarto/kegyarto/blob/master/images/Slide1.JPG)
 <hr />
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hello there! My name is Kaylyn Egyarto 👋
+<h1 align = "center">  Hello there! My name is Kaylyn Egyarto 👋</h1>
 
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<>informational?style=flat&logo=<npm>&logoColor=white&color=000000)
 [![
@@ -11,7 +11,7 @@
  ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
 -->
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:hammer:Technologies And Tools:hammer:
+<h2 align = "center">:hammer:Technologies And Tools:hammer:</h2>
 
 ### :large_blue_diamond:Programming And Scripting languages
 
@@ -48,7 +48,7 @@
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=blue)
 ![](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
 
-### ⚙️ &nbsp;GitHub Analytics
+<h2 align = "center"> ⚙️ GitHub Analytics</h2> 
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kegyarto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
