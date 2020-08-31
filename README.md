@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/kegyarto/kegyarto/blob/master/images/githubProfile.jpg)
+![alt text](https://github.com/kegyarto/kegyarto/blob/master/images/Slide1.JPG)
 <hr />
 
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hello there! My name is Kaylyn Egyarto 👋
