@@ -4,7 +4,9 @@
 
 <h1 align = "center">  Hello there! My name is Kaylyn Egyarto 👋</h1>
 
+<h2 align = "center"> :star:About Me:star:</h2>
 
+<p align="center">Hello world</p>
 
 <h2 align = "center">:hammer:Technologies And Tools:hammer:</h2>
 
@@ -50,7 +52,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kegyarto&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
-
 
 <!--
 **kegyarto/kegyarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
