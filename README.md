@@ -6,7 +6,7 @@
 
 <h2 align = "center"> :star:About Me:star:</h2>
 
-<p align="center">I currently graduated with a bachelors degree in Computer Science at University of Illinois at Chicago. As I am focused on giving quality work by asking good questions because I care about it being done the best it can be. Also, I'm passionate about making programs that can help change people's lives. Some of the classes I took  that could someday hopefully change people's lives for the better are, Human Augmentics, Artificial Intelligence and Video Game Design with Unity.</p>
+<p align="center">I recently graduated with a bachelors degree in Computer Science at University of Illinois at Chicago.  I am focused on giving quality work by asking good questions because I care greatly about doing the best I can always. Also, I'm passionate about making programs that can help change people's lives. Some of the classes I took  that could someday hopefully change people's lives for the better are, Human Augmentics, Artificial Intelligence and Video Game Design with Unity.</p>
  
 <h2 align = "center">:hammer:Technologies And Tools:hammer:</h2>
 
