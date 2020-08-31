@@ -2,7 +2,7 @@
 ![alt text](https://github.com/kegyarto/kegyarto/blob/master/images/githubProfile.jpg)
 <hr />
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hello there! My name is Kaylyn Egyarto 👋
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hello there! My name is Kaylyn Egyarto 👋
 
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<>informational?style=flat&logo=<npm>&logoColor=white&color=000000)
 [![
@@ -29,9 +29,20 @@
 ![](https://img.shields.io/badge/-SolidWorks-333333?style=flat)
 
 ### :large_blue_diamond:Operating Systems
-![](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=blue)
 ![](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![](https://img.shields.io/badge/-macOS-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH8AAAB/CAMAAADxY+0hAAAAZlBMVEX///8DAQQAAAADAAT7+/vz8/Pk5OT39/fr6+vT09PJyclRUVHv7+/FxcVCQkI6OjrZ2dmvr68dHR1eXl5HR0e9vb2Ojo51dHWioqKAgICampq3t7cqKioMCwwSERJ6enpmZmYxMDHydfrUAAAElElEQVRogdVbibKqMAyVoOzIqoCy/v9PPlaRPcWmd15mnLl6GU6zNE3S5HLhTzc7jqrgSvBmBKl24ENNpvon6PG9AZelv8F/pzW41NBf4LthD97gi9f/a0Sv8QvB6GrRqL0muf3AUyy8FXwx3/D/EAqv3qfwEtyE4oed7Ef4Sih8ArLcq77TP7xEwnsz4UsArkB4LV/gOwLhL8EcXqz1P2DBfijS+aUwup3O9whmfyH9QCD8xVwavyIQXlmyHwuEvzzhy+20rkeo9NW5+KES6vmV2eYDX6Ty59YvQ6oJhW/U/235jthj93Ip4eN2ZIBIeNA3mh9AJjbmmeDXcbfgiO+D3yQc4Dytv4Cv8QHSMNJF291Arm24grfcIWm6/bANnd+yNDsuq6yWdHZP3ruR3c1+tgloR2nk6T+DK16YwhflTuKub3PtEVTdM92G6A3zp1BULzOAbx8vt8l9vLD2q1uk0yc/Twen/YJuLt7Yb3aIjAn6y1l9sn/aNLYQ9kgJYJbWTJfw6pVrPcpN8OHpgN0a42z3nc0S0jL2nqa/D96QzByTqknH/DS4kSZ/DDYmrf17+kVm9M+WuSn6kwQsJYllSvU7yVCiud82vJ8WECG5T8d8ek//+F+HzAgVmi9iWm4EgHEECRV8jY8QgHe8nc/CV4jg/JZN9jM//QOUmPA0oTD9Fj5BoK/kk7zwcf6vJMJHwrs0xof2fV/5DE/7gzsuM1J8EvYhQwZhMY320SWRioZ9EwnfWR93/QM2CvdIfA+a/ZVKKg94sLH4JJsfUiw8je/F3wW8ARfGMP0KaOubFpO4sX9H30RGJPjoeuiVJO7Dq1+tSPSP3n03mu2HLshaNNsPja/ReD80vgLINIZN/0z4BAL4b/BJ9C+hUr6WLJrT38PiN/ufwP5Qac+AT8A/OvpRHRL8Clt6Izp/8AYYUeifwQBI4g8JfOytFE32gy99GkTZF7YbQ6XK/bEhyFHJ92z+he3HIMl/JHz+S5R+o/uBbKrSH1SoJMDKSfJvCZ0FkJwAnQRQ9a8XGb6McsM6We23lkB5bAO3O039rbMB5zgUJElBPxLI30f4REfAsAAoD0Rwo6nAfa2g2F8B3eXHsID91lR93k+1+YXZ/vrDqNzXQEotgIN8ICa6/xjgYR+eKAsY8Q/dYER0/9QFw8fVOEofXIdCR/ArHZU88RGxsEEnANQ9zDUAKv3jknGyQwAcXC2WLA4+PP86IroExbel01Si8Zm45g+BMM/4h6EzmCATgYylNZe/E2KbyVAOup/Y4U225lhvPlMy/8Kmf/aRkIBnIHBiIoZrIHBmIoXjOXRuJoFbPQywjndKzUHIxf7OTuNZfDSA7b5Y0ny84Bw8nO/N5lCRYbgAXqG2G2xL02NX8LavYrj+317AOl8AWe47jp9ny87f8alfpwJWVdAAJm+lt6ur7pWrS5B/E35HbjofcqmpWLjztgtYnj0Y8uhC1yIYK7MNeBivvlYp+vljuWMd8hengRAjbMXbmppfGptv1bx7/rFJ/8lxFsj1Sj/LnDK2D0YdlMcrCoKgiG0M7/8AnrNC6UKiml4AAAAASUVORK5CYII=)
+![](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=blue)
+
+### :large_blue_diamond:Framework And Tools
+![](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android)
+![](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+
+![](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=pink)
+![](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+![](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=blue)
+![](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
 
 
 
