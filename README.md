@@ -11,11 +11,12 @@
  ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
 -->
 
-<img alt="Night Coding" src="https://github.com/kegyarto/kegyarto/blob/master/images/gitCodePic.jpg" align="right" style="width:5px;height:6px;">
-
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:hammer:Technologies And Tools:hammer:
 
 ### :large_blue_diamond:Programming And Scripting languages
+
+<img src="https://github.com/kegyarto/kegyarto/blob/master/images/gitCodePic.jpg" align="right" width="250" height="250"/>
+
 ![](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=blue)
 ![](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=blue)
 ![](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=blue)
