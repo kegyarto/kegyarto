@@ -4,12 +4,7 @@
 
 <h1 align = "center">  Hello there! My name is Kaylyn Egyarto 👋</h1>
 
-<!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<>informational?style=flat&logo=<npm>&logoColor=white&color=000000)
-[![
-3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
- ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
--->
+
 
 <h2 align = "center">:hammer:Technologies And Tools:hammer:</h2>
 
@@ -48,7 +43,7 @@
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=blue)
 ![](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
 
-<h2 align = "center"> ⚙️ GitHub Analytics</h2> 
+<h2 align = "center"> ⚙️ GitHub Analytics ⚙️</h2> 
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kegyarto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
