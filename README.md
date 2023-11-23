@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/kegyarto/kegyarto/blob/master/images/Slide1.JPG)
+![alt text](https://github.com/kegyarto/kegyarto/blob/master/images/GithubProfilePicEdit.jpg)
 <hr />
 
 <h1 align = "center">  Hello there! My name is Kaylyn Egyarto 👋</h1>
